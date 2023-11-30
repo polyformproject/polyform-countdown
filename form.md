@@ -1,6 +1,8 @@
 # PolyForm Countdown License Grant
 
-Development Draft
+Version 1.0.0
+
+<https://polyformproject.org/licenses/countdown/1.0.0>
 
 ## Start Date
 
