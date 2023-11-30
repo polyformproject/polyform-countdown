@@ -2,7 +2,9 @@
 
 Development Draft
 
-Start Date: {start date} (ISO 8601-1:2019)
+## Start Date
+
+{start date} (ISO 8601-1:2019)
 
 ## License
 
