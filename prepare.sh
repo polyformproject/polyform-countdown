@@ -1,4 +1,6 @@
 #!/bin/sh
+# Copyright Kyle E. Mitchell
+# License: BlueOak-1.0.0 (https://blueoakcouncil.org/license/1.0.0)
 set -e
 
 effective_date="$1"
