@@ -12,8 +12,8 @@ and write the result to standard output.
 Usage: <date> (<SPDX ID> | <file>)
 
 Examples:
-  $0 $(date --iso-8601 -d "+1 year") ./new-license.txt
-  $0 \$(date --iso-8601 -d "+3 years") Apache-2.0
+  $0 $(date --iso-8601 -d "+1 year") ./new-license.txt > dist/COUNTDOWN
+  $0 \$(date --iso-8601 -d "+3 years") Apache-2.0 >> release/LICENSE.md
 USAGE
 }
 
