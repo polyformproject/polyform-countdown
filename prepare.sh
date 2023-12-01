@@ -6,6 +6,9 @@ new_license="$2"
 
 usage() {
 cat <<USAGE
+Fill out the PolyForm Countdown license grante template
+and write the result to standard output.
+
 Usage: <date> (<SPDX ID> | <file>)
 
 Examples:
